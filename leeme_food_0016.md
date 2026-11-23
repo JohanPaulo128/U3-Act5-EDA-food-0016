@@ -1,6 +1,6 @@
 ## Analisis exploratorio de datos
 ## Comida del pais india
-## Jaquez Andres 0074 
+## Johan Paulo '0016
 ## +-+-+- Importando datos del archivo csv comida india
 ![alt text](image-1.png)
 ## Mostrar nombre de comida
